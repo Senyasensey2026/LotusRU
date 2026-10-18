@@ -17,7 +17,7 @@ public record ModMetadata : IModMetadata
     {
         { "com.Luna.LunnayalunaLotus", new Range("~1.8.1") }
     };
-    public string? Url { get; init; } = null;
+    public string? Url { get; init; } = "https://github.com/Senyasensey2026/LotusRU";
     public string License { get; init; } = "MIT";
     public bool HasPrepatcher { get; init; } = false;
 }

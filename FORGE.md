@@ -14,7 +14,7 @@
 **Установка:** распакуйте архив в папку SPT.
 **Удаление:** удалите `SPT/user/mods/LotusRU`.
 
-Исходный код: <ссылка на GitHub>
+Исходный код: https://github.com/Senyasensey2026/LotusRU
 VirusTotal: <ссылка>
 
 Авторы Lotus — LunnayalunaLotus и LycorisOni. Первый перевод — Praxideke.

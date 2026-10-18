@@ -15,6 +15,6 @@
 **Удаление:** удалите `SPT/user/mods/LotusRU`.
 
 Исходный код: https://github.com/Senyasensey2026/LotusRU
-VirusTotal: <ссылка>
+VirusTotal: https://www.virustotal.com/gui/file/615754b211562ce263e3cf94082c2a3af41b04818844049642f9bdca333e0f54
 
 Авторы Lotus — LunnayalunaLotus и LycorisOni. Первый перевод — Praxideke.

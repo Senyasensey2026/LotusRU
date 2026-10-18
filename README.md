@@ -13,7 +13,7 @@
 
 ## Требования
 - SPT 4.1.6+
-- [Lotus](https://forge.sp-tarkov.com/) 1.8.1
+- [Lotus](https://sp-mod.com/) 1.8.1
 - WTT-CommonLib (нужен для самого Lotus)
 
 ## Установка
